@@ -762,7 +762,7 @@
 /*-----------------------------------------------*/
 
 /*CONTACTO HTML*/
-.btnConsultame{
+.btn1{
     margin-top: 8rem;
     font-size: 2rem;
     font-weight: bold;
@@ -774,13 +774,14 @@
     margin-left: 42%;
 }
 .form{
-    padding: 4rem;
+    padding: 2rem;
     font-size: 1.8rem;
     text-align: center;
     background-color: aquamarine;
-    border-radius: 50%;
+    border-radius: 20%;
     opacity: 90%;
     width: 35rem;
+    height: auto;
     margin-left: 39%;
     margin-top: 2%;
 }
@@ -825,7 +826,7 @@
     font-size: 2rem;
     width: 45rem;
     padding: 2rem;
-    background-color: greenyellow;
+    background-color: aquamarine;
 }
 
 .input:hover,
@@ -838,7 +839,7 @@
 
 
 @media (max-width: 1200px){
-    .btnConsultame{
+    .btn1{
         margin-top: 5rem;
         font-size: 1.5rem;
         font-weight: bold;
@@ -901,7 +902,7 @@
     font-size: 1rem;
     width: 15rem;
     padding: 1rem;
-    background-color: greenyellow;
+    background-color: aquamarine;
     }
 
     .input:hover,
@@ -915,7 +916,7 @@
 }
 
 @media (max-width: 768px){
-    .btnConsultame{
+    .btn1{
         margin-top: 8rem;
         font-size: 1.8rem;
         font-weight: bold;
@@ -976,6 +977,6 @@
         font-size: 0.78rem;
         width: 10rem;
         padding: 1rem;
-        background-color: greenyellow;
+        background-color: aquamarine;
         }
 }
